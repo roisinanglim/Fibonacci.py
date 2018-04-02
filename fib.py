@@ -10,7 +10,7 @@ def fib(n):
   
   return i
 
-name = "Angim"
+name = "Anglim"
 first = name[0]
 last = name[-1]
 firstno = ord(first)
@@ -21,4 +21,4 @@ ans = fib(x)
 print("My surname is", name)
 print("The first letter", first, "is number", firstno)
 print("The last letter", last, "is number", lastno)
-print("Fibonacci number", x, "is", ans)  
+print("Fibonacci number", x, "is", ans)
