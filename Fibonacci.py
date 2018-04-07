@@ -1,5 +1,6 @@
 # Roisin Anglim
-# A program that displays Fibonacci numbers.
+# A program that displays Fibonacci numbers. 
+# My name is Róisín, so the first and last letter of my name (R + N = 18 + 14) give the number  32. The 32nd Fibonacci number is 2,178,309.
 
 def fib(n):
   """This function returns the nth Fibonacci number."""
